@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'destroy';
+	src: url('destroy_-webfont.eot');
+	src: url('destroy_-webfont.eot?#iefix') format('embedded-opentype'),
+		url('destroy_-webfont.woff') format('woff'),
+		url('destroy_-webfont.ttf') format('truetype'),
+		url('destroy_-webfont.svg') format('svg');
+}
